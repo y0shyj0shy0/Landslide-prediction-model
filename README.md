@@ -48,7 +48,8 @@
 
 ---
 ## 6. 참고 자료
-[박진성_011005_영주시 빅데이터 공모전.pdf](https://github.com/user-attachments/files/22234728/_011005_.pdf)
+[영주시 빅데이터 공모전.pdf](https://github.com/user-attachments/files/22234739/default.pdf)
+
 
 <img width="1611" height="850" alt="image" src="https://github.com/user-attachments/assets/67f2a24e-8998-450e-965b-6122f5f40e7f" />
 
