@@ -48,5 +48,7 @@
 - **Libraries**: `scikit-learn`, `numpy`, `pandas`  
 
 ---
+<img width="1611" height="850" alt="image" src="https://github.com/user-attachments/assets/67f2a24e-8998-450e-965b-6122f5f40e7f" />
+
 
  본 프로젝트는 **영주시 데이터분석 공모전에서 데이터 기반 산사태 위험 예측**을 통해 안전하고 지속가능한 지역 환경 구축을 목표로 합니다.
